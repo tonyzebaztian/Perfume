@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-negaroa: Negaroa;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-35xl: 54px;
+  --font-size-31xl: 50px;
+
+  /* Colors */
+  --content-color-constant: #fff;
+  --color-lavender: #cfe8ff;
+  --color-midnightblue-100: #212587;
+  --color-midnightblue-200: #0a0d57;
+
+  /* Gaps */
+  --gap-lg: 18px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-81xl: 100px;
+}
